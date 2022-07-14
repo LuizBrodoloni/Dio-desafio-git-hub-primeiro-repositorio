@@ -1,0 +1,6 @@
+Criar primeiro repositorio...
+
+- Entraga do primeiro repositório Git/GitHub
+
+- Conhecimentos dos comandos para ultilizar no Git
+
