@@ -1,0 +1,24 @@
+https://git-scm.com/downloads 
+
+https://github.com/LuizBrodoloni/Dio-desafio-git-hub-primeiro-repositorio
+
+-------------------------------------------------------------------------------------
+
+Mudar de pastas
+Listar as pastas
+criar pastas/arquivos
+Deletar pastas/arquivos
+------------------------------
+Windowns - comando 
+
+-cd - entrar no diretorio - cd .. sair do diretorio
+-dir - listar diretorio
+-mkdir - criar pasta/arquivo
+-del - deletar conteudo  / rmdir - deletar todo o diretorio
+
+-------------------------------------------------------------------- 
+
+Git Status
+Git add *
+Git commit -m "msg"
+Git origin master
